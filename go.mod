@@ -1,3 +1,3 @@
-module github.com/hyforthy/go.mod
+module github.com/hyforthy/golangmod
 
 go 1.12
