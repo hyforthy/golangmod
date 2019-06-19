@@ -1,1 +1,1 @@
-# golangmod
+# go.mod
